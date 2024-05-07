@@ -1,0 +1,14 @@
+.banner {
+  background-image: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url("https://images.unsplash.com/photo-1478098711619-5ab0b478d6e6?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: cover;
+  height: 400px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner p {
+  font-style: italic;
+  font-size: 20px;
+}
